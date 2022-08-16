@@ -1,7 +1,7 @@
 # Salesforce-DEV-TEST 🖥️ 
 <br>
 
-## EJERCICIO 2
+## 📍EJERCICIO 2
 
 1. Es una pieza de software capaz de comprender URLs (direcciones web) y HTTP (el protocolo que tu navegador usa para obtener las páginas web).
 
@@ -25,15 +25,16 @@
 
 11. Los header en un request permiten al cliente y al servidor enviar información adicional junto a una petición o respuesta. El content type se usa para indicar al cliente o navegador qué clase de archivo o medio le está enviando el servidor.
 
-## EJERCICIO 3
+## 📍EJERCICIO 3
 
 1. La diferencia que se observa entre las llamadas 1 y 3 es que al haber un POST de por medio donde el usuario (yo) ingreso mis datos, estos se almacenan y al volver a solicitar un request de tipo GET en la response del server encontrare los datos ingresados anteriormente. Esto sucede ya que las request de tipo GET del usuario son re recolección de información y las request de tipo POST del usuario son de envió de datos.
 
-## EJERCICIO 4
+## 📍EJERCICIO 4
 
 * Soluciones aquí, https://trailblazer.me/id/fdimarco1
+<br>
 
-## EJERCICIO 5
+## 📍EJERCICIO 5
 
 1. un Lead es el objeto predeterminado que se crea cuando se recibe nueva información de contacto en su base de datos.
 
@@ -56,7 +57,7 @@
 #### RELACIONES ENTRE OBJETOS
 [![relaciones.png](https://i.postimg.cc/jqvZtYzB/relaciones.png)](https://postimg.cc/LhYz37QV)
 
-## EJERCICIO 6
+## 📍EJERCICIO 6
 
 ### Soluciones Salesforce
 A) Salesforce es una plataforma de gestión de las relaciones con los clientes (CRM) basada en la nube.<br>
@@ -99,7 +100,7 @@ M) Web to case es una característica innovadora que te ayuda a recopilar solici
 N) Omnichannel es una funcionalidad de Salesforce, la cual una vez habilitada se puede configurar de forma que permite que un agente, bajo una misma pantalla, pueda recibir casos que hayan entrado a la plataforma a traves de un correo electronico, un chat, etc.<br>
 O) Chatter es una funcionalidad de Salesforce de colaboración en tiempo real que permite a sus usuarios trabajar juntos, comunicarse y compartir información.
 
-## EJERCICIO 7
+## 📍EJERCICIO 7
 ```Apex
 global class calloutContact {
     @future(callout = true)
