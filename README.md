@@ -27,6 +27,30 @@ Ejercicio 3
 
 1) La diferencia que se observa entre las llamadas 1 y 3 es que al haber un POST de por medio donde el usuario (yo) ingreso mis datos, estos se almacenan y al volver a solicitar un request de tipo GET en la response del server encontrare los datos ingresados anteriormente. Esto sucede ya que las request de tipo GET del usuario son re recoleccion de informacion y las request de tipo POST del usuario son de envio de datos.
 
-Ejercicio 4) 
+Ejercicio 4
 
 Soluciones aquí, https://trailblazer.me/id/fdimarco1
+
+Ejercicio 5
+
+1)un Lead es el objeto predeterminado que se crea cuando se recibe nueva información de contacto en su base de datos.
+
+2)Un Account representa una cuenta individual, que es una organización o persona involucrada con su negocio (como clientes, competidores y socios). 
+
+3)Un Contact representa a un contacto, que es una persona asociada a una cuenta.
+4)Una Opportunity representa una oportunidad, que es una venta o trato pendiente.
+
+5)Un Product representa un producto que vende una empresa. Este objeto tiene varios campos que se usan solo para programaciones de cantidad e ingresos (por ejemplo, anualidades). Los cronogramas están disponibles solo para organizaciones que han activado las funciones de productos y cronogramas. Si estas funciones no están habilitadas, los campos de programación no aparecen en DescribeSObjectResult y no puede consultar, crear o actualizar los campos.
+
+6)Un Pricebook representa un libro de precios que contiene la lista de productos que vende una organización.
+
+7)Un Quote representa una cotización, que es un registro que muestra los precios propuestos para productos y servicios. Las cotizaciones se pueden crear y sincronizar con oportunidades, y se pueden enviar por correo electrónico como archivos PDF a los clientes.
+
+8)Un Asset representa un artículo de valor comercial, como un producto vendido por una empresa o un competidor, que ha comprado un cliente.
+
+9)Un Case representa un caso, que es un asunto o problema del cliente.
+
+10)Un Article es un objeto utilizado ara asociar un artículo con categorías de datos de un grupo de categorías de datos o para consultar las selecciones de categoría de un artículo.
+
+RELACIONES ENTRE OBJETOS
+<img src="/docs/logo.png" alt="My cool logo"/>
