@@ -1,6 +1,6 @@
 # Salesforce-DEV-TEST
 
-Ejercicio 1
+Ejercicio 2
 1) Es una pieza de software capaz de comprender URLs (direcciones web) y HTTP (el protocolo que tu navegador usa para obtener las páginas web).
 
 2) Los verbos HTTP son aquellos que indican que accion queremos realizar sobre el servidor. Los mas conocidos son GET y POST, usados en formularios HTML por ejemplo.
@@ -22,3 +22,11 @@ Ejercicio 1
 10) El estandar REST(Representational State Transfer) es un estilo de arquitectura de software para realizar una comunicación cliente-servidor y RESTful es la implementación de dicha arquitectura.
 
 11) permiten al cliente y al servidor enviar información adicional junto a una petición o respuesta. El content type se usa para indicar al cliente o navegador qué clase de archivo o medio le está enviando el servidor.
+
+Ejercicio 3
+
+1) La diferencia que se observa entre las llamadas 1 y 3 es que al haber un POST de por medio donde el usuario (yo) ingreso mis datos, estos se almacenan y al volver a solicitar un request de tipo GET en la response del server encontrare los datos ingresados anteriormente. Esto sucede ya que las request de tipo GET del usuario son re recoleccion de informacion y las request de tipo POST del usuario son de envio de datos.
+
+Ejercicio 4) 
+
+Soluciones aquí, https://trailblazer.me/id/fdimarco1
