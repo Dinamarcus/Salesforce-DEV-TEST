@@ -19,7 +19,7 @@
 
 8. XML es un lenguaje de marcado (como dice en realidad en su nombre) utilizado para el intercambio de información entre sistemas con sintaxis similar a HTML. El formato de este estándar está basado en texto para representar información estructurada: datos, documentos, configuración, etc.<br>JSON es una forma de representar objetos (como también se indica en su nombre). Ejemplos de posibles estructuras de XML y JSON:
 
-POSIBLE ESTRUCTURA JSON
+##### POSIBLE ESTRUCTURA JSON
 ```JSON
 {
     “pieza”: {
@@ -34,7 +34,7 @@ POSIBLE ESTRUCTURA JSON
      }
 }
 ```
-POSIBLE ESTRUCTURA XML
+##### POSIBLE ESTRUCTURA XML
 ```XML
 <pieza tipo="A">
     <nombre>Tornillo</nombre>
@@ -84,6 +84,7 @@ POSIBLE ESTRUCTURA XML
 10. Un Article es un objeto utilizado para asociar un artículo con categorías de datos de un grupo de categorías de datos o para consultar las selecciones de categoría de un artículo.
 
 #### RELACIONES ENTRE OBJETOS
+
 [![relaciones.png](https://i.postimg.cc/jqvZtYzB/relaciones.png)](https://postimg.cc/LhYz37QV)
 
 ## 📍EJERCICIO 6
