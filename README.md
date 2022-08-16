@@ -54,50 +54,56 @@ EJERCICIO 5
 
 RELACIONES ENTRE OBJETOS <br>
 [![relaciones.png](https://i.postimg.cc/jqvZtYzB/relaciones.png)](https://postimg.cc/LhYz37QV)
-<br>
+
 EJERCICIO 6
 
-Soluciones Salesforce
-A) Salesforce es una plataforma de gestión de las relaciones con los clientes (CRM) basada en la nube
-B) Sales Cloud es una aplicacion que permite a los usuarios tener acceso a su información dondequiera que se encuentren, siempre y cuando tengan un PC conectado o una aplicación móvil basada en Internet.
-C) Service Cloud es un software de servicio al cliente
-D) Health Cloud es un sistema CRM de TI de salud que incorpora relacion doctor-paciente y servicios de administracion de registros. 
+Soluciones Salesforce<br>
+A) Salesforce es una plataforma de gestión de las relaciones con los clientes (CRM) basada en la nube.<br>
+B) Sales Cloud es una aplicacion que permite a los usuarios tener acceso a su información dondequiera que se encuentren, siempre y cuando tengan un PC conectado o una aplicación móvil basada en Internet.<br>
+C) Service Cloud es un software de servicio al cliente.<br>
+D) Health Cloud es un sistema CRM de TI de salud que incorpora relacion doctor-paciente y servicios de administracion de registros. <br>
 E) Marketing cloud es una plataforma de marketing digital de Salesforce que incluye herramientas para el marketing por correo electrónico, el marketing a través de redes sociales, el marketing para dispositivos móviles, la publicidad online y la automatización del marketing.   
 
-Conceptos Generales
-A) SaaS significa Software as a Service (Sofware como un Servicio)
-B) Si, Salesforce es SaaS
-C) Son soluciones que se alojan en servidores externos a la empresa a los que se ingresa mediante internet.
-D) Significa que la solucion sera la instalacion de un programa realizada de manera local, en las instalaciones de la empresa y obligando a esta a crear una infraestructura informática compleja con servidores que requieren mantenimiento.
-E)el proceso de actividades y estrategias que necesita un vendedor para acelerar el ciclo de ventas, transformando clientes potenciales (aquellos que acaban de conocer tu marca o servicio) en clientes
-F) es la forma en que una empresa planea y establece procesos para ponerse en contacto con los diferentes usuarios y así llegar a cumplir un objetivo final, que bien puede ser la conversión de clientes, lograr un registro, cerrar una venta, entre otros.
-G) Customer experience significa experiencia del cliente.
-H) Es una estrategia de comunicación utilizada para estar en contacto con los prospectos o clientes a través de diferentes canales (email, redes sociales, sitio web, etc.). El uso de los diferentes canales debe hacerse bajo una misma estrategia para llegar al consumidor en el momento indicado.
-I) B2B (business to business) es el modelo de negocio en el que se realizan transacciones comerciales entre empresas. En cambio, en el modelo B2C (business to consumer) esas transacciones se efectúan entre negocios —de cualquier magnitud— y los consumidores.
-Un KPI (Key Perfonce Indicator) es un indicador que mide el nivel de desempeño de nuestras acciones frente a los objetivos establecidos previamente en nuestra estrategia.
-J) Una API (Application programming interface) es el código que determina el funcionamiento de un programa informático que sirve para canalizar información de una parte de un software a otra. la API sigue el formato de aplicación a aplicación, mientras que REST sigue una estructura diferente: Cliente-Servidor.
-K) Un proceso de produccion por lotes, o batch, no es más que la producción de una cantidad limitada de un tipo de producto cada vez. Cada lote recibe una identificación, como número o código. Además, cada lote exige un plan de producción específico.
-L) Kanban es una metodologia para gestionar el trabajo la cual consiste en lo visual. está compuesto por tres columnas: “Por hacer”, “En proceso” y “Hecho”.
-M) ERP es el sistema de registro de la organización. A menudo es el sistema de registro de la organización.
+Conceptos Generales<br>
+A) SaaS significa Software as a Service (Sofware como un Servicio).<br>
+B) Si, Salesforce es SaaS.<br>
+C) Son soluciones que se alojan en servidores externos a la empresa a los que se ingresa mediante internet.<br>
+D) Significa que la solucion sera la instalacion de un programa realizada de manera local, en las instalaciones de la empresa y obligando a esta a crear una infraestructura informática compleja con servidores que requieren mantenimiento.<br>
+E)el proceso de actividades y estrategias que necesita un vendedor para acelerar el ciclo de ventas, transformando clientes potenciales (aquellos que acaban de conocer tu marca o servicio) en clientes.<br>
+F) es la forma en que una empresa planea y establece procesos para ponerse en contacto con los diferentes usuarios y así llegar a cumplir un objetivo final, que bien puede ser la conversión de clientes, lograr un registro, cerrar una venta, entre otros.<br>
+G) Customer experience significa experiencia del cliente.<br>
+H) Es una estrategia de comunicación utilizada para estar en contacto con los prospectos o clientes a través de diferentes canales (email, redes sociales, sitio web, etc.). El uso de los diferentes canales debe hacerse bajo una misma estrategia para llegar al consumidor en el momento indicado.<br>
+I) B2B (business to business) es el modelo de negocio en el que se realizan transacciones comerciales entre empresas. En cambio, en el modelo B2C (business to consumer) esas transacciones se efectúan entre negocios —de cualquier magnitud— y los consumidores.<br>
+Un KPI (Key Perfonce Indicator) es un indicador que mide el nivel de desempeño de nuestras acciones frente a los objetivos establecidos previamente en nuestra estrategia.<br>
+J) Una API (Application programming interface) es el código que determina el funcionamiento de un programa informático que sirve para canalizar información de una parte de un software a otra. la API sigue el formato de aplicación a aplicación, mientras que REST sigue una estructura diferente: Cliente-Servidor.<br>
+K) Un proceso de produccion por lotes, o batch, no es más que la producción de una cantidad limitada de un tipo de producto cada vez. Cada lote recibe una identificación, como número o código. Además, cada lote exige un plan de producción específico.<br>
+L) Kanban es una metodologia para gestionar el trabajo la cual consiste en lo visual. está compuesto por tres columnas: “Por hacer”, “En proceso” y “Hecho”.<br>
+M) ERP es el sistema de registro de la organización. A menudo es el sistema de registro de la organización.<br>
 N) Salesforce no es un ERP.
 
-Funcionalidades Salesforce
-A) Un record type es una funcionalidad te permite tener diferentes procesos de negocios, valores de lista de selección y diseños de página para diferentes usuarios según el perfil.
-B) Un report type es una funcionalidad que te permite crear reportes y mostrar diferentes tipos de informacion en base a lo que se quiere. Existen 4 tipos y son: Tabular, Summary, Matrix y Joined.
-C) Page layout es una funcionalidad que nos permite customizar el diseño y organizacion de paginas de edicion y detalle de registros.
-D) Compact layout muestra los campos clave de un registro de un vistazo en la aplicación móvil Salesforce, Lightning Experience y en las integraciones de Outlook y Gmail.
-E) Un perfil define como acceden los usuarios a objetos y datos y que pueden hacer en la aplicacion.
-F) Un rol es opcional y sólo pueden ser asignados una vez el usuario haya establecido un perfil.
-G) Un Validation Rule se encarga de verificar que los datos que un usuario ingresa en un registro cumplen con los estandares especificados antes que el usuario pueda guardad ese registro.
+Funcionalidades Salesforce<br>
+A) Un record type es una funcionalidad te permite tener diferentes procesos de negocios, valores de lista de selección y diseños de página para diferentes usuarios según el perfil.<br>
+B) Un report type es una funcionalidad que te permite crear reportes y mostrar diferentes tipos de informacion en base a lo que se quiere. Existen 4 tipos y son: Tabular, Summary, Matrix y Joined.<br>
+C) Page layout es una funcionalidad que nos permite customizar el diseño y organizacion de paginas de edicion y detalle de registros.<br>
+D) Compact layout muestra los campos clave de un registro de un vistazo en la aplicación móvil Salesforce, Lightning Experience y en las integraciones de Outlook y Gmail.<br>
+E) Un perfil define como acceden los usuarios a objetos y datos y que pueden hacer en la aplicacion.<br>
+F) Un rol es opcional y sólo pueden ser asignados una vez el usuario haya establecido un perfil.<br>
+G) Un Validation Rule se encarga de verificar que los datos que un usuario ingresa en un registro cumplen con los estandares especificados antes que el usuario pueda guardad ese registro.<br>
 H) La diferencia que puedo establecer entre las relaciones de objetos Lookup y Master-Detail es 
-que en las relaciones lookup los objetos que se relacionan son independientes entre si y ocupan lugar en la interfaz del usuario mientras que en las relaciones master-detail el objeto secundario (detail) no tiene esa libertad ya que depende del objeto principal (master).
-I) Sandbox es una copia de la organizacion en un entorno aislado que puede usar para distintos fines, como pruebas y capacitación. Los sandbox están completamente aislados de su organización de producción de Salesforce.
-J) Un change set permite enviar personalizaciones de una organizacion de salesforce a otra. 
-K) Import Wizard convierte en una tarea mas sencilla el importe de datos para muchos objetos estandar de Saleforce, incluyendo cuentas, contactos, guias, soluciones, miembros de campaña y cuentas de personas.
-L) Salesforce lead es el proceso de usar un formulario de un sitio web para capturar la informacion de un visitante y guardar esa informacion como un nuevo lead en Salesforce
-M) Web to case es una caracteristica innovadora que te ayuda a recopilar solicitudes de atención al cliente directamente desde el sitio web de su empresa y generar automáticamente hasta 5000 casos nuevos por día.
-N) Omnichannel es una funcionalidad de Salesforce, la cual una vez habilitada se puede configurar de forma que permite que un agente, bajo una misma pantalla, pueda recibir casos que hayan entrado a la plataforma a traves de un correo electronico, un chat, etc.
-O) Chatter es una funcionalidad de Salesforce de colaboracion en tiempo real que permite a sus usuarios trabajar juntos, comunicarse y compartir informacion. 
+que en las relaciones lookup los objetos que se relacionan son independientes entre si y ocupan lugar en la interfaz del usuario mientras que en las relaciones master-detail el objeto secundario (detail) no tiene esa libertad ya que depende del objeto principal (master).<br>
+I) Sandbox es una copia de la organizacion en un entorno aislado que puede usar para distintos fines, como pruebas y capacitación. Los sandbox están completamente aislados de su organización de producción de Salesforce.<br>
+J) Un change set permite enviar personalizaciones de una organizacion de salesforce a otra. <br>
+K) Import Wizard convierte en una tarea mas sencilla el importe de datos para muchos objetos estandar de Saleforce, incluyendo cuentas, contactos, guias, soluciones, miembros de campaña y cuentas de personas.<br>
+L) Salesforce lead es el proceso de usar un formulario de un sitio web para capturar la informacion de un visitante y guardar esa informacion como un nuevo lead en Salesforce.<br>
+M) Web to case es una caracteristica innovadora que te ayuda a recopilar solicitudes de atención al cliente directamente desde el sitio web de su empresa y generar automáticamente hasta 5000 casos nuevos por día.<br>
+N) Omnichannel es una funcionalidad de Salesforce, la cual una vez habilitada se puede configurar de forma que permite que un agente, bajo una misma pantalla, pueda recibir casos que hayan entrado a la plataforma a traves de un correo electronico, un chat, etc.<br>
+O) Chatter es una funcionalidad de Salesforce de colaboracion en tiempo real que permite a sus usuarios trabajar juntos, comunicarse y compartir informacion.
+
+EJERCICIO 7
+
+CODIGO
+
+
 
 
 
