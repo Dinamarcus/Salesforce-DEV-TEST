@@ -20,22 +20,33 @@
 8. XML es un lenguaje de marcado (como dice en realidad en su nombre) utilizado para el intercambio de información entre sistemas con sintaxis similar a HTML. El formato de este estándar está basado en texto para representar información estructurada: datos, documentos, configuración, etc.<br>JSON es una forma de representar objetos (como también se indica en su nombre). Ejemplos de posibles estructuras de XML y JSON:
 
 #### <h4 align = "center" >POSIBLE ESTRUCTURA JSON</h4>
-```JSON
+
+```json
+
 {
-    “pieza”: {
-        “tipo”: “A”
-        “nombre”: “Tornillo”,
-        “descripcion”: “Cilindro mecánico con una cabeza utilizado en la fijación temporal de unas piezas con otras”,
-        “caracteristica”: {
-            “tipo”: “metal”
-            “tamanyo”: 10
-        },
-        “vacio”: “”
-     }
+
+  "Customer": {
+    "CustomerKeyurl": "http://customer-dev/key",
+    "CustomerdetailsUrl": "http://customer-dev/id",
+    "Agency": {
+      "AgencyID": "subvalue1_from_json",
+      "AccountKey": 200
+    },
+    "Agencies": [
+      "Agency1",
+      "Agency2",
+      "Agency4",
+      "Agency5",
+      "Agency6"
+    ]
+  }
 }
+
 ```
 #### <h4 align = "center">POSIBLE ESTRUCTURA XML</h4>
+
 ```XML
+
 <pieza tipo="A">
     <nombre>Tornillo</nombre>
     <descripcion>Cilindro mecanico con una cabeza utilizado en la fijación temporal de unas piezas con otras 
@@ -46,6 +57,7 @@
     </caracateristica>
     <vacio></vacio>
 </pieza>
+
 ```
 
 9. SOAP es un estándar basado en XML para la transmisión de mensajes en HTTP y otros protocolos de Internet.
@@ -65,7 +77,7 @@
 
 ## 📍EJERCICIO 5
 
-1. un Lead es el objeto predeterminado que se crea cuando se recibe nueva información de contacto en su base de datos.
+1. Un Lead es el objeto predeterminado que se crea cuando se recibe nueva información de contacto en su base de datos.
 
 2. Un Account representa una cuenta individual, que es una organización o persona involucrada con su negocio (como clientes, competidores y socios).
 
