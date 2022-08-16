@@ -53,4 +53,4 @@ Ejercicio 5
 10)Un Article es un objeto utilizado ara asociar un artículo con categorías de datos de un grupo de categorías de datos o para consultar las selecciones de categoría de un artículo.
 
 RELACIONES ENTRE OBJETOS <br>
-<img src="[![relaciones.png](https://i.postimg.cc/jqvZtYzB/relaciones.png)](https://postimg.cc/LhYz37QV)" alt="My cool logo"/>
+[![relaciones.png](https://i.postimg.cc/jqvZtYzB/relaciones.png)](https://postimg.cc/LhYz37QV)
