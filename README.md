@@ -1,4 +1,4 @@
-# Salesforce-DEV-TEST 🖥️ 
+# <h1 align = "center">Salesforce-DEV-TEST 🖥️ <h1>
 <br>
 
 ## 📍EJERCICIO 2
@@ -136,7 +136,7 @@ O) Chatter es una funcionalidad de Salesforce de colaboración en tiempo real qu
 
 ## 📍EJERCICIO 7
 ```Apex
-global class calloutContact {
+global class calloutContact { //Llamada al web service donde obtengo mi mail
     @future(callout = true)
     public static void method1 (ID s1)  {
     Http http = new Http();
@@ -159,7 +159,7 @@ global class calloutContact {
     }
 }
 
-trigger contactTrigger on Contact (before update, after insert) {
+trigger contactTrigger on Contact (before update, after insert) { //Trigger que se ejecuta
         Map<Id,Contact> contactList = new Map<Id,Contact>(
         [SELECT Id, Email, idprocontacto__c FROM Contact WHERE Id IN :Trigger.New]);
         for (Contact a :Trigger.New) {   
