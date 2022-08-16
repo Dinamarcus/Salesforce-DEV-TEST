@@ -9,19 +9,19 @@ EJERCICIO 2
 
 4) Un query string es aquello que en la URL luego de un signo de interrogacion, es enviado al servidor.
 
-5) es el mensaje que envía el servidor al cliente tras haber recibido una petición o HTTP request. Los distintos valores devueltos pueden significar: Respuestas informativas (100–199), Respuestas satisfactorias (200–299), Redirecciones (300–399), Errores de los clientes (400–499) y errores de los servidores (500–599). 
+5) El responseCode es el mensaje que envía el servidor al cliente tras haber recibido una petición o HTTP request. Los distintos valores devueltos pueden significar: Respuestas informativas (100–199), Respuestas satisfactorias (200–299), Redirecciones (300–399), Errores de los clientes (400–499) y errores de los servidores (500–599). 
 
 6) La data en un GET se envia por medio de la URL, es decir, si el usuario llena un formulario sus datos enviados apareceran en la URL. En cambio por medio del metodo POST esos datos enviados por el usuario no son visibles en la URL.
 
 7) Cuando accedemos a un sitio web el navegador utiliza el verbo GET.
 
-8)
+8) XML es un lenguaje de marcado (como dice en realidad en su nombre), mientras que el JSON es una forma de representar objetos (como también se indica en su nombre).
 
 9) SOAP es un estándar basado en XML para la transmisión de mensajes en HTTP y otros protocolos de Internet.
 
 10) El estandar REST(Representational State Transfer) es un estilo de arquitectura de software para realizar una comunicación cliente-servidor y RESTful es la implementación de dicha arquitectura.
 
-11) permiten al cliente y al servidor enviar información adicional junto a una petición o respuesta. El content type se usa para indicar al cliente o navegador qué clase de archivo o medio le está enviando el servidor.
+11) Los header en un request permiten al cliente y al servidor enviar información adicional junto a una petición o respuesta. El content type se usa para indicar al cliente o navegador qué clase de archivo o medio le está enviando el servidor.
 
 EJERCICIO 3
 
@@ -67,18 +67,18 @@ E) Marketing cloud es una plataforma de marketing digital de Salesforce que incl
 Conceptos Generales<br>
 A) SaaS significa Software as a Service (Sofware como un Servicio).<br>
 B) Si, Salesforce es SaaS.<br>
-C) Son soluciones que se alojan en servidores externos a la empresa a los que se ingresa mediante internet.<br>
-D) Significa que la solucion sera la instalacion de un programa realizada de manera local, en las instalaciones de la empresa y obligando a esta a crear una infraestructura informática compleja con servidores que requieren mantenimiento.<br>
-E)el proceso de actividades y estrategias que necesita un vendedor para acelerar el ciclo de ventas, transformando clientes potenciales (aquellos que acaban de conocer tu marca o servicio) en clientes.<br>
-F) es la forma en que una empresa planea y establece procesos para ponerse en contacto con los diferentes usuarios y así llegar a cumplir un objetivo final, que bien puede ser la conversión de clientes, lograr un registro, cerrar una venta, entre otros.<br>
+C) Las soluciones Cloud son soluciones que se alojan en servidores externos a la empresa a los que se ingresa mediante internet.<br>
+D) Si la solucion es de tipo On-premise significa que la solucion sera la instalacion de un programa realizada de manera local, en las instalaciones de la empresa y obligando a esta a crear una infraestructura informática compleja con servidores que requieren mantenimiento.<br>
+E)Un pipeline de ventas es el proceso de actividades y estrategias que necesita un vendedor para acelerar el ciclo de ventas, transformando clientes potenciales (aquellos que acaban de conocer tu marca o servicio) en clientes.<br>
+F) Un funnel de ventas es la forma en que una empresa planea y establece procesos para ponerse en contacto con los diferentes usuarios y así llegar a cumplir un objetivo final, que bien puede ser la conversión de clientes, lograr un registro, cerrar una venta, entre otros.<br>
 G) Customer experience significa experiencia del cliente.<br>
-H) Es una estrategia de comunicación utilizada para estar en contacto con los prospectos o clientes a través de diferentes canales (email, redes sociales, sitio web, etc.). El uso de los diferentes canales debe hacerse bajo una misma estrategia para llegar al consumidor en el momento indicado.<br>
+H) Omnicanalidad es una estrategia de comunicación utilizada para estar en contacto con los prospectos o clientes a través de diferentes canales (email, redes sociales, sitio web, etc.). El uso de los diferentes canales debe hacerse bajo una misma estrategia para llegar al consumidor en el momento indicado.<br>
 I) B2B (business to business) es el modelo de negocio en el que se realizan transacciones comerciales entre empresas. En cambio, en el modelo B2C (business to consumer) esas transacciones se efectúan entre negocios —de cualquier magnitud— y los consumidores.<br>
 Un KPI (Key Perfonce Indicator) es un indicador que mide el nivel de desempeño de nuestras acciones frente a los objetivos establecidos previamente en nuestra estrategia.<br>
 J) Una API (Application programming interface) es el código que determina el funcionamiento de un programa informático que sirve para canalizar información de una parte de un software a otra. la API sigue el formato de aplicación a aplicación, mientras que REST sigue una estructura diferente: Cliente-Servidor.<br>
 K) Un proceso de produccion por lotes, o batch, no es más que la producción de una cantidad limitada de un tipo de producto cada vez. Cada lote recibe una identificación, como número o código. Además, cada lote exige un plan de producción específico.<br>
 L) Kanban es una metodologia para gestionar el trabajo la cual consiste en lo visual. está compuesto por tres columnas: “Por hacer”, “En proceso” y “Hecho”.<br>
-M) ERP es el sistema de registro de la organización. A menudo es el sistema de registro de la organización.<br>
+M) ERP (Enterprise Resource Planning) es un tipo de software que las organizaciones utilizan para gestionar las actividades empresariales diarias, como la contabilidad, el aprovisionamiento, la gestión de proyectos, la gestión de riesgos, el cumplimiento y las operaciones de la cadena de suministro.<br>
 N) Salesforce no es un ERP.
 
 Funcionalidades Salesforce<br>
@@ -101,7 +101,7 @@ O) Chatter es una funcionalidad de Salesforce de colaboracion en tiempo real que
 
 EJERCICIO 7
 
-CODIGO
+CODIGO ADJUNTO EN ARCHIVOS DENTRO DE UN DOCUMENTO TXT.
 
 
 
