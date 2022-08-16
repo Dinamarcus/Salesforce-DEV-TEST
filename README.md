@@ -3,7 +3,7 @@
 
 ## 📍EJERCICIO 2
 
-1. Es una pieza de software capaz de comprender URLs (direcciones web) y HTTP (el protocolo que tu navegador usa para obtener las páginas web).
+1. El servidor HTTP es una pieza de software capaz de comprender URLs (direcciones web) y HTTP (el protocolo que tu navegador usa para obtener las páginas web).
 
 2. Los verbos HTTP son aquellos que indican que acción queremos realizar sobre el servidor. Los más conocidos son GET y POST, usados en formularios HTML, por ejemplo.
 
@@ -17,7 +17,36 @@
 
 7. Cuando accedemos a un sitio web el navegador utiliza el verbo GET.
 
-8. XML es un lenguaje de marcado (como dice en realidad en su nombre), mientras que el JSON es una forma de representar objetos (como también se indica en su nombre).
+8. XML es un lenguaje de marcado (como dice en realidad en su nombre) utilizado para el intercambio de información entre sistemas con sintaxis similar a HTML. El formato de este estándar está basado en texto para representar información estructurada: datos, documentos, configuración, etc.<br>JSON es una forma de representar objetos (como también se indica en su nombre). Ejemplos de posibles estructuras de XML y JSON:
+
+POSIBLE ESTRUCTURA JSON
+```JSON
+{
+    “pieza”: {
+        “tipo”: “A”
+        “nombre”: “Tornillo”,
+        “descripcion”: “Cilindro mecánico con una cabeza utilizado en la fijación temporal de unas piezas con otras”,
+        “caracteristica”: {
+            “tipo”: “metal”
+            “tamanyo”: 10
+        },
+        “vacio”: “”
+     }
+}
+```
+POSIBLE ESTRUCTURA XML
+```XML
+<pieza tipo="A">
+    <nombre>Tornillo</nombre>
+    <descripcion>Cilindro mecanico con una cabeza utilizado en la fijación temporal de unas piezas con otras 
+    </descripcion>
+    <caracateristica>
+        <tipo>metal</tipo>
+        <tamanyo>10</tamanyo>
+    </caracateristica>
+    <vacio></vacio>
+</pieza>
+```
 
 9. SOAP es un estándar basado en XML para la transmisión de mensajes en HTTP y otros protocolos de Internet.
 
